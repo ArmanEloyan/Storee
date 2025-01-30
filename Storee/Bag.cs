@@ -40,7 +40,7 @@ namespace Store
 
             if (product != null)
             {
-                _productsInBag.Add(product);
+                _productsInBag.Add(product); // 123
             }
         }
 
